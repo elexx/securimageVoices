@@ -9,4 +9,4 @@ Generate voices for [securimage](https://github.com/dapphp/securimage) using [Ma
 * open secureimageVoices/voices and create a new folder, named as the voice you installed (a few samples are already their, just delete them, if you feel like it)
 * run generate.sh
 
-cleanAll.sh will remove all
+cleanAll.sh will remove all generated wav file
